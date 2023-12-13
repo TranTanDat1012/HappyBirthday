@@ -209,6 +209,5 @@ html, body {
     }
     100% {
       transform: rotateX(-167deg) rotateY(-180deg) translateZ(-15px) scale(1.2);
-      opacity: 0;
     }
   }
