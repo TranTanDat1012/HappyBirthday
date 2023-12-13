@@ -1,5 +1,5 @@
 const nameGirl = 'For ...';
-const eventName = 'Merry Christmas';
+const eventName = 'Happy Birthday';
 const titleCard = 'Chúc mừng giáng sinh';
 const contentCard = 'Giáng sinh vui vẻ </br> Merry Christmas';
 
