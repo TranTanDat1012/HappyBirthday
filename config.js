@@ -1,7 +1,7 @@
 const nameGirl = 'For ...';
 const eventName = 'Happy Birthday';
 const titleCard = 'Chúc mừng giáng sinh';
-const contentCard = 'Giáng sinh vui vẻ </br> Merry Christmas';
+const contentCard = ' </br> Chúc mừng sinh nhật my friend';
 
 const giftImage = 'images1.png';
 const base64 = '';
